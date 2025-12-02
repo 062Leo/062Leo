@@ -1,5 +1,5 @@
 # 💫 About Me:
-<Comming Soon>
+(Comming Soon)
 
 
 # 💻 Tech Stack:
@@ -21,4 +21,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=062Leo&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
