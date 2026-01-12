@@ -1,6 +1,7 @@
 # 💫 About Me:
 (Comming Soon)
 
+# 📧 Contact Me:
 [![Contact Me](https://img.shields.io/badge/Contact-Me-blue?style=for-the-badge&logo=maildotru)](https://tally.so/r/KYx5ak)
 
 
