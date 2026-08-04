@@ -11,17 +11,21 @@
 <p align="left"><img src="https://raw.githubusercontent.com/062Leo/062Leo/main/github-metrics.svg" /></p>
 
 ### 👷 Check out what I'm currently working on
-<!-- markscribe:start -->
-<!-- markscribe:end -->
+{{ range recentContributions 5 }}
+- [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }}
+{{- end }}
 ### 🌱 My latest projects
-<!-- markscribe:start -->
-<!-- markscribe:end -->
+{{ range recentRepos 5 }}
+- [{{ .Name }}]({{ .URL }}) - {{ .Description }}
+{{- end }}
 ### 🔨 My recent Pull Requests
-<!-- markscribe:start -->
-<!-- markscribe:end -->
+{{ range recentPullRequests 5 }}
+- [{{ .Title }}]({{ .URL }}) on [{{ .Repo.Name }}]({{ .Repo.URL }})
+{{- end }}
 ### ⭐ Recent Stars
-<!-- markscribe:start -->
-<!-- markscribe:end -->
+{{ range recentStars 5 }}
+- [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }}
+{{- end }}
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
