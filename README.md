@@ -11,17 +11,29 @@
 <p align="left"><img src="https://raw.githubusercontent.com/062Leo/062Leo/main/github-metrics.svg" /></p>
 
 ### 👷 Check out what I'm currently working on
-<!-- markscribe:start -->
-<!-- markscribe:end -->
+
+- [062Leo/real-time-chat-app](https://github.com/062Leo/real-time-chat-app) - Real-time two-user chat app built with ASP.NET Core SignalR and Vue 3. Features presence detection, typing indicators, message validation, and Docker support.
+- [062Leo/dev-portfolio-nextjs](https://github.com/062Leo/dev-portfolio-nextjs) - My Portfolio Website
+- [062Leo/yt-bulk-playlist-manager](https://github.com/062Leo/yt-bulk-playlist-manager) - YT Bulk Playlist Manager — Tampermonkey userscript for batch-copying, moving, and removing videos across YouTube playlists.
+- [062Leo/FoodCheck-Scanner](https://github.com/062Leo/FoodCheck-Scanner) - A mobile application to scan food products and instantly analyze ingredients for health, additives, and nutritional value.
+- [062Leo/Conways-Game-of-Life-WPF](https://github.com/062Leo/Conways-Game-of-Life-WPF) - 
 ### 🌱 My latest projects
-<!-- markscribe:start -->
-<!-- markscribe:end -->
+
+- [062Leo/real-time-chat-app](https://github.com/062Leo/real-time-chat-app) - Real-time two-user chat app built with ASP.NET Core SignalR and Vue 3. Features presence detection, typing indicators, message validation, and Docker support.
+- [062Leo/yt-bulk-playlist-manager](https://github.com/062Leo/yt-bulk-playlist-manager) - YT Bulk Playlist Manager — Tampermonkey userscript for batch-copying, moving, and removing videos across YouTube playlists.
+- [062Leo/FoodCheck-Scanner](https://github.com/062Leo/FoodCheck-Scanner) - A mobile application to scan food products and instantly analyze ingredients for health, additives, and nutritional value.
+- [062Leo/Bachelorarbeit-Demo](https://github.com/062Leo/Bachelorarbeit-Demo) - Dieses Repository enthält eine  aufbereitete Demo-Version  des Unity-Projekts, das meine Bachelorarbeit zum Thema Reinforcement Learning in Unity begleitet. Es dient als kompakte, exemplarische Darstellung der wichtigsten Bestandteile.
+- [062Leo/dev-toys](https://github.com/062Leo/dev-toys) - A collection of useful dev toys and more.
 ### 🔨 My recent Pull Requests
-<!-- markscribe:start -->
-<!-- markscribe:end -->
+
+- [Added ACMS Project](https://github.com/062Leo/dev-portfolio-nextjs/pull/61) on [062Leo/dev-portfolio-nextjs](https://github.com/062Leo/dev-portfolio-nextjs)
 ### ⭐ Recent Stars
-<!-- markscribe:start -->
-<!-- markscribe:end -->
+
+- [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+- [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) - Vercel&#39;s official collection of agent skills
+- [michelpereira/awesome-open-source-games](https://github.com/michelpereira/awesome-open-source-games) - Collection of Games that have the source code available on GitHub
+- [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.
+- [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.6 Series, Grok 4.5, Claude model through API
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
