@@ -1,7 +1,10 @@
 name: markscribe
 on:
-  push:
   workflow_dispatch:
+  workflow_run:
+    workflows: [Metrics]
+    types:
+      - completed
   schedule:
     - cron: '0 0 * * *'
 jobs:
